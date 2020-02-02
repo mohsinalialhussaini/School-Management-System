@@ -1,0 +1,73 @@
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.csprojResolveAssemblyReference.cache
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form1.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form10.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form11.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form12.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form13.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form14.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form15.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form2.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form3.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form4.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form5.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form6.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form7.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form8.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Form9.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+F:\Visual studio\Ds Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.csprojResolveAssemblyReference.cache
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Students.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Books.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Liabrary.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Expense.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Admin.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Sform.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Parents.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Teachers.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Tsalary.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Ssalary.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Courses.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Classes.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Exams.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.Cache
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_Info.resources
+E:\Semester\Visual studio\DS Programmes\School Managment System\School Managment System\obj\Debug\School_Managment_System.user.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\bin\Debug\School Managment System.exe.config
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\bin\Debug\School Managment System.exe
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\bin\Debug\School Managment System.pdb
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School Managment System.csprojAssemblyReference.cache
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Students.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Books.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Liabrary.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Expense.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Admin.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Sform.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Login.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Parents.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Teachers.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Staff.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Tsalary.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Ssalary.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Courses.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Classes.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Exams.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Properties.Resources.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.Student_Info.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School_Managment_System.user.resources
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School Managment System.csproj.GenerateResource.cache
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School Managment System.exe
+D:\Iftakhar\DBMS PROJECT\School Managment System\School Managment System\obj\Debug\School Managment System.pdb
